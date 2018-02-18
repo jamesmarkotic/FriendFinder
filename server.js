@@ -1,9 +1,4 @@
-// Unchanging Global Variables
-// const express = require('express');
-// const bodyParser = require('body-parser');
-// const path = require('path');
-//
-// var app = express();
+
 
 // ==============================================================================
 // DEPENDENCIES
@@ -12,7 +7,7 @@
 
 var express = require("express");
 var bodyParser = require("body-parser");
-var path = require('path')
+var path = require('path');
 
 // ==============================================================================
 // EXPRESS CONFIGURATION
